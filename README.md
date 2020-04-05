@@ -33,6 +33,11 @@ In the gifs, the red circles are the particles and the green box is the mean sta
 <img src="https://github.com/jacobmalmberg/Face-tracking-using-SMC/blob/master/gifs/up_and_down_movement.gif" width = "60%"/>
 </p>
 
+### Moving in front of a red background!
+<p align="center">
+<img src="https://github.com/jacobmalmberg/Face-tracking-using-SMC/blob/master/gifs/jacob_red.gif" width = "60%"/>
+</p>
+
 
 ## References
 Nummiaro, K., Koller-Meier, E., and Van Gool, L. An
