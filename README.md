@@ -1,4 +1,4 @@
-# Face Tracking using SMC (particle fiter) 
+# Face Tracking using SMC (particle filter) 
 ## Intro
 
 In this project faces were tracked using a color based particle filter. The input to the algorithm is a box drawn around the face. This box was acquired using the Viola-Jones algorithm (2001). From this box a color histogram is extracted. The face is then tracked using a particle filter, where the weighted mean of the location of the particles is the center of the face. 
