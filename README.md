@@ -25,8 +25,7 @@ In the gifs, the red circles are the particles and the green box is the mean sta
 ### Moving towards as well as away from the camera!
 
 <p align="center">
-<img src="https://github.com/jacobmalmberg/Face-tracking-using-SMC/blob/master/gifs/size-change-blue-background.gif
-" width = "60%"/>
+<img src="https://github.com/jacobmalmberg/Face-tracking-using-SMC/blob/master/gifs/size-change-blue-background.gif" width = "60%"/>
 </p>
 
 ### Moving up and down
