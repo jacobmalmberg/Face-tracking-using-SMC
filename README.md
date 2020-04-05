@@ -13,7 +13,7 @@ Sounds fun? It was fun to implement. Read the entire report [here](https://githu
 
 ## Results
 
-In the gifs, the red circles are the particles and the green box is the mean state estimation. To keep the size of the landing page small, not all results are shown. More results can be found [here](https://github.com/jacobmalmberg/Face-tracking-using-SMC/tree/master/gifs).
+In the gifs, the red circles are the particles and the green box is the mean state estimation. To keep the size of the landing page small, not all results are shown. More gifs can be found [here](https://github.com/jacobmalmberg/Face-tracking-using-SMC/tree/master/gifs) and the original movies can be found [here](https://github.com/jacobmalmberg/Face-tracking-using-SMC/tree/master/videos).
 
 
 ### Fast sideways moment, changing lighting conditions and moving in/out of the frame!
